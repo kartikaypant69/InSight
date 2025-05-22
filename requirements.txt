@@ -4,3 +4,4 @@ mtcnn
 facenet-pytorch
 numpy
 Pillow
+pandas
